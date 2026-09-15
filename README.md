@@ -1,8 +1,7 @@
-# PTE 707 Anatomy Trainer
+DPT Library
 Created by: Ravenous Clyde
 
-A flashcard and quiz study tool for PTE 707 Medical Human Anatomy.
-Covers upper & lower extremity, spine, SI joint, spinal cord, and the brachial plexus.
+An ever expanding collection of 100’s of Brightspace files to bring you success as an SPT. Taking it one day at a time. 
 
 Live site: https://mkassel33.github.io/
-Progress saves in your browser.
+Venmo: mattkassel
